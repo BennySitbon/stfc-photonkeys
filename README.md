@@ -4,6 +4,7 @@ a Bluestacks control scheme for Star Trek Fleet Command
 ## Features
 * Quickly select your ships by hitting the dock number and then the Q key
 * While in chat, hit T to open keyboard and start typing
+* While on a target, press E to execute the attack/mine
 * and the default set: 
   * Up/down to zoom in and out
   * WASD to move camera around
